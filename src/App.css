@@ -6,3 +6,9 @@
 body{
   background-color: #f1f1ff;
 }
+h1{
+  text-align: center;
+  padding: 1rem ;
+  background-color: #be2a43;
+  color: #fff;
+}
